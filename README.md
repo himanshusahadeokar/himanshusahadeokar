@@ -8,7 +8,7 @@
 
 # Hey there 👋 I'm Himanshu Sahadeokar
 
-### 🚀 Data Science | AI/ML Enthusiast | Programmer
+### 🚀 Data Science | Aspiring Data Scientist | Programmer
 
 </div>
 
@@ -16,11 +16,11 @@
 
 ## 👨‍💻 About Me
 
-- 🎓 Student preparing for IT & Data Science placements  
-- 💻 Skilled in **Python, Java, C, Data Structures & Algorithms**  
-- 🤖 Currently learning **Machine Learning, AI, and Data Analytics**  
+- 🎓 I am an aspiring Data Scientist with a strong interest in data analysis, machine learning, and problem-solving. 
+- 💻 Building strong foundations in **Python, Statistics, Data Analysis, Machine Learning and Deep Learning**  
+- 🤖 Currently learning **Deep Learning, Artificial Intelligence, and Data Science tools & techniques**  
 - 📊 Interested in **Data Science projects & real-world analytics**  
-- ⚡ Fun fact: I enjoy exploring tech trends and improving coding skills  
+- ⚡ Fun fact: I enjoy working with real-world datasets, extracting meaningful insights, and continuously improving my analytical skills.
 
 ---
 
@@ -29,17 +29,38 @@
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40"/>
   <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40"/>
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40"/>
   <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40"/>
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="40"/>
   <img width="12"/>
+
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40"/>
   <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40"/>
-  <img width="12"/>
+
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40"/>
   <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40"/>
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40"/>
+  <img width="12"/>
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" height="40"/>
+  <img width="12"/>
+
+  <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" height="40"/>
+  <img width="12"/>
+
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" height="40"/>
+  <img width="12"/>
+
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" height="40"/>
+  <img width="12"/>
+
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" height="40"/>
+  <img width="12"/>
+
+  <img src="https://colab.research.google.com/img/colab_favicon_256px.png" height="40"/>
 </p>
 
 ---
@@ -58,9 +79,8 @@
 
 ## 🌐 Connect With Me
 
-- 💼 LinkedIn → Add your link  
-- 📧 Email → Add your email  
-- 🌎 Portfolio → (Optional)
+- 💼 LinkedIn → https://www.linkedin.com/in/himanshu-sahadeokar-274832302/
+- 📧 Email → himanshu.sahadeokar@gmail.com
 
 ---
 
